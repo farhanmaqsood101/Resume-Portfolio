@@ -2,7 +2,7 @@
 
 ![PAPA React JS Portfolio Starter Pack](header-background.jpg?raw=true "I am Farhan Maqsood ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+
 
 ## Resume Starter Pack Description
 
